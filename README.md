@@ -40,6 +40,32 @@ pip install wxPython pandas numpy matplotlib faker
 python "IoT Data Generator App.py"
 ```
 
+![Running the app from terminal](screenshots/screenshot_1.png)
+
+---
+
+## 🖥️ App in Action
+
+### File Menu — Generate IoT, Save JSON, Save CSV
+
+![File menu and app window](screenshots/screenshot_2.png)
+
+> ⚠️ **Important:** You must run **Generate IoT** before saving data or viewing statistics.
+
+---
+
+### Descriptive Statistics & Plot A — Outside Temperature Histogram
+
+![Descriptive stats dialog and Plot A histogram](screenshots/screenshot_3.png)
+
+---
+
+### Plot B — Outside vs Room Temperature & Plot C — All Histograms
+
+![Plot B line graph and Plot C histogram grid](screenshots/screenshot_4.png)
+
+> 💡 Each plot opens in an interactive window. Close it to return to the main app.
+
 ---
 
 ## 🖥️ How to Use
